@@ -1,0 +1,61 @@
+Ch#1: Into to Computers and C++
+
+C evolved from two previous languages: BCPL and B
+BCPL - Martin Richards - 1967
+B - Ken Thompson - 1970
+C++ evolved from C
+C - Dennis Ritchie - Bell Laboratories - 1972
+C++ - an extension of C - Bjarne Stroustrup - Bell Laboratories - 1979
+Originally called "C with classes" - renamed to C++ in 1980s
+C++ programs consist of pieces called classes and functions
+C++ systems consist of three parts: a program development environment, 
+the language and the C++ Standard Library
+
+Ch#2: Intro to c++ programming; I/O and operators
+
+1. Welcome
+    printing a line of text
+    sum, difference, product, quotient, modulus of two integers
+    comparing integers using if statements, relational and equality operators
+    calculating sum, product, average, max and min of three integers
+    even/odd
+    determine if first integer is a multiple of second
+
+Ch#3: Intro to classes, objects and strings
+
+Ch#4: Control statements: part1; Assignment, ++, -- opertaors
+
+1. GradeBook
+    Counter-Controlled Repetition
+    Sentinel-Controlled Repetition
+
+2. ExamResult
+    Nested Control Statements
+    
+3. Increment
+    Preincrementing and postincrementing
+
+4. Power
+    Raise x to the y power
+
+Ch#5: Control statements: part2; Logical Operators
+
+1. ControlState
+    Counter-controlled repetition with while statement
+    Counter-controlled repetition with for statement
+    Summing the Even Integers from 2 to 20
+    do-while repetition statement
+
+2. CompdInterest
+    Compound interest calculations
+
+3. SwitchState
+    Switch Statement to Count Grades
+
+4. BreakCont
+    break statement exiting a for statement
+    continue statement terminating an iteration of a for statement
+    
+5. LogicalOp
+    create truth table for &&, ||, !
+    
