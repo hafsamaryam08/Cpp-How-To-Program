@@ -1,6 +1,6 @@
 # 💻 C++ How To Program – Practice Repository
 
-This repository contains my practice code from the book **"C++ How To Program" (Deitel)**.  
+This repository contains my practice code from the book **"C++ How To Program" (Deitel)**.
 It covers the foundations of C++ programming through step-by-step examples and exercises.  
 
 ---
