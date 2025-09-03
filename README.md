@@ -9,7 +9,7 @@ It covers the foundations of C++ programming through step-by-step examples and e
 
 ### 📖 Chapter 1: Introduction to Computers and C++
 - Evolution of C and C++  
-  - BCPL (Martin Richards, 1967)  
+  - BCPL (Martin Richards, 1967) 
   - B (Ken Thompson, 1970)  
   - C (Dennis Ritchie, Bell Labs, 1972)  
   - C++ (Bjarne Stroustrup, Bell Labs, 1979)  
